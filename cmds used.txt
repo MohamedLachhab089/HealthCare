@@ -1,0 +1,13 @@
+npx create-next-app@latest
+
+npm i clsx tailwind-merge
+
+npm i tailwindcss-animate
+
+npx shadcn-ui@latest add button
+
+npm install next-themes
+
+npx shadcn-ui@latest add form
+
+npm install react-phone-number-input --save
