@@ -13,3 +13,16 @@ npx shadcn-ui@latest add form
 npm install react-phone-number-input --save
 
 npm install node-appwrite
+
+npx shadcn-ui@latest add radio-group
+
+npx shadcn-ui@latest add select
+
+npm install react-datepicker --save
+
+npx shadcn-ui@latest add textarea
+
+npm install --save react-dropzone
+
+npx shadcn-ui@latest add checkbox
+
